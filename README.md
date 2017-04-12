@@ -16,3 +16,5 @@ To run a Shiny app type:
 library(shiny)
 runGitHub("count_vis", "dulska", subdir = "/shinyapp/")
 ```
+
+## add install.packages("V8")
